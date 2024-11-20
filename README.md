@@ -1,5 +1,6 @@
 # Scatter Team Respawn
  Minecraft datapack, respawn next to team, with functionality to be scattered far from spawn.
+- As of writing, manually adding teamID via scoreboards still required.
 
 ## Current supported versions:
 - 1.20.1
